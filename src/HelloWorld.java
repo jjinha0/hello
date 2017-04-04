@@ -10,7 +10,9 @@ public class HelloWorld {
 
         int Sum = prePaidCard + subwayCharge + drinkCoffee;
 
-        System.out.println("총 금액은?"+Sum);
+        System.out.println("총 금액은?" + Sum);
+        System.out.println("another line");
+
     }
 
 }
