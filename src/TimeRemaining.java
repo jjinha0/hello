@@ -7,7 +7,7 @@ public class TimeRemaining {
         int spendHours = 7;
 
         int timeRemaining = totalHours - spendHours;
-        System.out.println("남은 시간은 "+timeRemaining+"시간 입니다.");
+        System.out.println("남은 시간은 "+timeRemaining+"시간 입니다!");
 
 
 
