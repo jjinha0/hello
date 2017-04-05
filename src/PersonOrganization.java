@@ -10,6 +10,6 @@ public class PersonOrganization {
 
         int numOfPerson = numOfMan + numOfWoman;
 
-        System.out.println("총 인원수는 "+numOfPerson+"명 입니다.");
+        System.out.println("총 인원수는 " + numOfPerson + "명 입니다.");
     }
 }

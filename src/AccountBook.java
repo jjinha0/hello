@@ -11,6 +11,6 @@ public class AccountBook {
 
         int totalSpent = prepaidCard + subwayFee + drinkCoffee;
 
-        System.out.println("오늘 쓴 경비는 "+totalSpent+"원 입니다.");
+        System.out.println("오늘 쓴 경비는 " + totalSpent + "원 입니다.");
     }
 }
